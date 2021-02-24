@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://ok.png" width="30px">
+## Fancy seeing you here! <img src="https://github.com/TorinTurner/TorinTurner/blob/main/wave.gif?raw=true" width="30px">
 
 I am Torin Turner, I am currently serving in the [United States Navy](https://navy.mil/). I am a hobbyist programmer and have self-taught myself almost everything I know. Majority of my repositories are private. But, I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
