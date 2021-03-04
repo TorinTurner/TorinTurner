@@ -1,6 +1,7 @@
 ## Fancy seeing you here! <img src="https://github.com/TorinTurner/TorinTurner/blob/main/wave.gif?raw=true" width="30px">
 
-I am Torin Turner, I am currently serving in the [United States Navy](https://navy.mil/). I am a hobbyist programmer and have self-taught myself almost everything I know. Majority of my repositories are private. But, I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am [Torin Turner](https://8squaredplus5.com), I am currently serving in the [United States Navy](https://navy.com/). I am a hobbyist programmer and have self-taught myself almost everything I know. Majority of my repositories are private. But, I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-torinturner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torinturner/)](https://www.linkedin.com/in/torinturner/)
 [![Instagram Badge](https://img.shields.io/badge/-fastminded-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/fastminded/)](https://instagram.com/fastminded)
