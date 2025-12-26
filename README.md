@@ -4,7 +4,7 @@ I am [Torin Turner](https://8squaredplus5.com), I am currently serving in the [U
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-torinturner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torinturner/)](https://www.linkedin.com/in/torinturner/)
-[![Instagram Badge](https://img.shields.io/badge/-fastminded-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/fastminded/)](https://instagram.com/fastminded)
+[![Instagram Badge](https://img.shields.io/badge/-fastminded-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/fastminded/)](https://instagram.com/torinturner)
 [![Gmail Badge](https://img.shields.io/badge/-torinnturner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torinturner1@gmail.com)](mailto:torinturner@gmail.com)
 
 ## ⚡ Technologies
